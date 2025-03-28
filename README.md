@@ -1,5 +1,4 @@
-# Brainwave_Matrix_intern
-## Amazon eCommerce Sales Dataset
+# Amazon eCommerce Sales Dataset
 
 This repository contains the raw Amazon eCommerce sales dataset collected from Kaggle. The dataset includes detailed information about Amazon transactions, such as order status, fulfillment methods, shipping details, and sales figures.
 
